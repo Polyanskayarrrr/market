@@ -1,16 +1,6 @@
-# market
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 3ISP9-21 Polyanskaya Elizaveta
+## Практическая работа №2
+![image](https://github.com/Polyanskayarrrr/market/assets/145163194/dc3705ac-45f7-439e-b935-9d91af27fbeb)
+![image](https://github.com/Polyanskayarrrr/market/assets/145163194/af0b87bf-448f-4225-9fe8-c20520b9bc97)
+![image](https://github.com/Polyanskayarrrr/market/assets/145163194/d97e5455-c9f1-4e4f-8b5d-8e0b49e5368f)
+![image](https://github.com/Polyanskayarrrr/market/assets/145163194/469b68b3-104a-4832-abf2-2a610465a22f)
